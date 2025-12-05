@@ -1,0 +1,17 @@
+filename = 'InventoryProfilesNext-neoforge-1.21.1-2.2.1.jar'
+name = 'Inventory Profiles Next'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'neoforge-1.21.1-2.2.1'
+
+[download]
+hash = '237ced79d16b57da1a43c9f6d183bc555c434ac1ecd0ceca7ecfcbc4ae0e7b87fad23e5769050c37ab9e089f3cd8c8066260cded4e04337e11e2fca066f07131'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/O7RBXm3n/versions/YbsgXb9G/InventoryProfilesNext-neoforge-1.21.1-2.2.1.jar'
+
+[update.modrinth]
+mod-id = 'O7RBXm3n'
+version = 'YbsgXb9G'

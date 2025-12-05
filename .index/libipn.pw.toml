@@ -1,0 +1,17 @@
+filename = 'libIPN-neoforge-1.21.1-6.6.1.jar'
+name = 'libIPN'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'neoforge-1.21.1-6.6.1'
+
+[download]
+hash = '5dc501543df16365236aef8a9b955f0c1c7ee38e6f86b20f94fe84446ae727be7811709b97f582cac84f0ba110c0deaf978e637a820dad4c83b07da3def1c8c2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/onSQdWhM/versions/zE3hANeN/libIPN-neoforge-1.21.1-6.6.1.jar'
+
+[update.modrinth]
+mod-id = 'onSQdWhM'
+version = 'zE3hANeN'
